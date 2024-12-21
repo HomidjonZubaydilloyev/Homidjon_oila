@@ -1,0 +1,155 @@
+body {
+    font-family: sans-serif;
+}
+.text2{
+    margin-left: 100px;
+    font-size:40px ;
+    color: orange;
+}
+.text1{
+    display: flex;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+    background: linear-gradient(black, gray);
+    align-items: center;
+}
+a {
+    text-decoration: none;
+}
+.text3{
+    background: linear-gradient(rgb(27, 24, 24),rgb(133, 133, 133));
+    width: 170px;
+    margin-left: 1000px;
+    border-radius: 40px;
+    justify-content: center;
+    height: 50px;
+}
+.text4{
+    color: orange;
+    font-size: 30px;
+}
+.text9{
+    width: 600px;
+    border-radius: 30px;
+    height: 600px;
+    padding-left: 100px;
+    transition: 0.2s linear;
+}
+.text9:hover{
+    transform: scale(1.1);
+}
+.text10{
+    color: orange;
+    font-size: 70px;
+    padding-left: 100px;
+}
+.text11{
+    color: white;
+    position: absolute;
+    right: 200px;
+    top: 250px;  
+    width: 500px;
+}
+
+.father{
+    background: black;
+    display: flex;
+   height: 800px;
+   position: relative;
+   padding-top: 100px;
+}
+.text49{
+    display: flex;
+    position: relative;
+    background-color: black;
+    padding-bottom: 100px;
+}
+.text50{
+    margin-left: 80px;
+    border-radius: 30px;
+    transition: 0.2s linear;
+}
+.text50:hover{
+    transform: scale(1.1);
+}
+.text110{
+    margin-left: 700px;
+    border-radius: 30px;
+    width: 700px;
+    height: 800px;
+    transition: 0.2s linear;
+}
+.text110:hover{
+    transform: scale(1.1);
+}
+.text51{
+    color: white;
+    width: 700px;
+    margin-left: 40px;
+    margin-top: 270px;
+}
+.text53{
+    color: orange;
+    position: absolute;
+    left: 40px;
+    bottom: 500px;
+    font-size: 60px;
+}
+.text56{
+    width: 500px;
+    border-radius: 30px;
+    margin-left: 40px;
+    transition: 0.2s linear;
+}
+.text56:hover{
+    transform: scale(1.1);
+}
+.text57{
+    color: orange;
+    font-size: 60px;
+    position: absolute;
+    right: 180px;
+    margin-left: 250px;
+}
+.text112{
+    color: orange;
+    font-size: 60px;
+    position: absolute;
+    right: 70px;
+    margin-left: 250px;
+}
+.text58{
+    color: white;
+    margin-top: 200px;
+    margin-left: 130px;
+    width: 600px;
+}
+.text100{
+    display: flex;
+    position: relative;
+    background-color: black;
+    padding-bottom: 100px;
+}
+.text101{
+    color: orange;
+    position: absolute;
+    left: 30px;
+    bottom: 500px;
+    font-size: 60px;
+}
+.text102{
+    color: white;
+    position: absolute;
+    left: 30px;
+    bottom: 330px;
+    width: 600px;
+}
+.text111{
+        width: 550px;
+        border-radius: 30px;
+        margin-left: 40px;
+        height: 700px;
+        transition: 0.2s linear;
+}
+    .text111:hover{
+        transform: scale(1.1);
+    }
